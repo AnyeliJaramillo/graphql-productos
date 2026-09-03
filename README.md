@@ -709,7 +709,7 @@ En una futura implementación podría reemplazarse el array por una base de dato
 El código fuente completo del proyecto se encuentra disponible en GitHub.
 
 ```text
-PEGAR_AQUI_EL_ENLACE_DEL_REPOSITORIO
+(https://github.com/AnyeliJaramillo/graphql-productos.git)
 ```
 
 ---
